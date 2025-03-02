@@ -346,6 +346,7 @@ body {
 .alt__bottom {
   background-color: #383358;
 }
+/* Tikraack -> @tikrack */
 
 .alb {
   position: absolute;
@@ -814,6 +815,8 @@ body {
     transparent
   );
 }
+/* Tikraack -> @tikrack */
+
 .blb2__back {
   background-color: #383358;
 }
@@ -2696,6 +2699,9 @@ body {
       -0.125vw -0.125vw 0vw rgba(81, 137, 251, 0);
   }
 }
+
+/* Tikraack -> @tikrack */
+
 @keyframes luz-tv {
   from {
     background-image: radial-gradient(
@@ -2704,3 +2710,4 @@ body {
     );
   }
 }
+/* tikrack.ir */
